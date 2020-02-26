@@ -1,0 +1,14 @@
+Package: me.samhep.dockgone   
+Name: DockGone
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Makes the dock disappear.
+Maintainer: Samuel Hepworth
+Author: Samuel Hepworth
+Section: Tweaks
+Depends: 
+Filename: debs/me.samhep.dockgone_iphoneos-arm.deb
+Size: 4372
+MD5sum: a0d4b67cb9f8d22159c1ec85d1de1b05
+SHA1: 54F2067773516314DBEB24E11D9A7FFCFBC4BFE5
+SHA256: 6E75C970F1E9CD250F752B0169CC755647D1A79370CDC73177691375A70BFF22
