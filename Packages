@@ -6,7 +6,7 @@ Description: Makes the dock disappear.
 Maintainer: Samuel Hepworth
 Author: Samuel Hepworth
 Section: Tweaks
-Depends: MobileSubstrate
+Depends: mobilesubstrate
 Filename: debs/me.samhep.dockgone_iphoneos-arm.deb
 Size: 4372
 MD5sum: a0d4b67cb9f8d22159c1ec85d1de1b05
