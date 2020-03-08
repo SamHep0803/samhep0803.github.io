@@ -11,7 +11,7 @@ Filename: debs/me.samhep.dockgone_iphoneos-arm.deb
 Size: 4378
 MD5sum: 41b1cbfc2bac79493f887aa5a62fcae0
 
-Package: me.samhep.vibrations
+Package: me.samhep.vibrations++
 Name: Vibrations++
 Version: 0.0.1
 Architecture: iphoneos-arm
