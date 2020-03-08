@@ -1,26 +1,25 @@
 Package: me.samhep.dockgone   
-Name: DockGone
 Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Makes the dock disappear.
-Maintainer: Samuel Hepworth
-Author: Samuel Hepworth
 Section: Tweaks
+Maintainer: Samuel Hepworth
 Depends: mobilesubstrate
-Filename: debs/me.samhep.dockgone_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Filename: ./debs/me.samhep.dockgone_iphoneos-arm.deb
 Size: 4378
 MD5sum: 41b1cbfc2bac79493f887aa5a62fcae0
-
-Package: me.samhep.vibrations
-Name: VibrationsPlus
-Version: 0.1.0
-Architecture: iphoneos-arm
-Description: Adds different haptic feedback features.
-Maintainer: Samuel Hepworth
+Description: Makes the dock disappear.
+Name: DockGone
 Author: Samuel Hepworth
+
+Package: me.samhep.vibrationsplus
+Version: 0.1.0
 Section: Tweaks
+Maintainer: Samuel Hepworth
 Depends: mobilesubstrate
-Filename: debs/me.samhep.vibrations_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Filename: ./debs/me.samhep.vibrations_iphoneos-arm.deb
 Size: 3922
 MD5sum: 5662210cf6838e8b5b75c700c8808e5e
-
+Description: Adds different haptic feedback vibrations.
+Name: Vibrations Plus
+Author: Samuel Hepworth
