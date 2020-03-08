@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: Samuel Hepworth
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/me.samhep.dockgone_iphoneos-arm.deb
+Filename: debs/me.samhep.dockgone_iphoneos-arm.deb
 Size: 4378
 MD5sum: 41b1cbfc2bac79493f887aa5a62fcae0
 Description: Makes the dock disappear.
