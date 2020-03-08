@@ -19,7 +19,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/me.samhep.vibrationsplus_iphoneos-arm.deb
 Size: 3922
-MD5sum: 5662210cf6838e8b5b75c700c8808e5e
+MD5sum: a12e1865b9f8835ed711e4fac7d32ceb
 Description: Adds different haptic feedback vibrations.
 Name: Vibrations Plus
 Author: Samuel Hepworth
