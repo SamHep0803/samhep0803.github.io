@@ -11,9 +11,9 @@ Filename: debs/me.samhep.dockgone_iphoneos-arm.deb
 Size: 4378
 MD5sum: 41b1cbfc2bac79493f887aa5a62fcae0
 
-Package: me.samhep.vibrations++
-Name: Vibrations++
-Version: 0.0.1
+Package: me.samhep.vibrations
+Name: VibrationsPlus
+Version: 0.1.0
 Architecture: iphoneos-arm
 Description: Adds different haptic feedback features.
 Maintainer: Samuel Hepworth
@@ -21,6 +21,6 @@ Author: Samuel Hepworth
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: debs/me.samhep.vibrations_iphoneos-arm.deb
-Size: 3874
-MD5sum: bcf7c87e2d5f6db377ab334b50d4d7c0
+Size: 3922
+MD5sum: 5662210cf6838e8b5b75c700c8808e5e
 
